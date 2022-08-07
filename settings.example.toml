@@ -1,0 +1,4 @@
+# TOKEN is the token discord provides for your app
+TOKEN="my-secret-discord-bot-token"
+# APP_ID is the app ID discord provides for your app
+APP_ID="0123456789-app-id"
